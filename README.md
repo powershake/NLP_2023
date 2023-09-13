@@ -9,4 +9,4 @@
 |#|session |keywords |
 | | | |
 |:--:|:--:|:--:|
-|1|code cells|[various,assign]()|
+|1|code cells|[various,assign](1_CodeCells_Basic_.ipynb)|
